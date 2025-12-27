@@ -1,4 +1,4 @@
-# ALGORTIMOS UTILES PARA SPRING BOOT
+# ALGORTIMOS ÚTILES PARA SPRING BOOT
 
 Este repositorio no está pensado para probarlo en tu ordenador ya que faltan archivos. 
 Aqui solo estan las entidades con las que se trabaja (Carpeta 'model') y los métodos/algoritmos que se encuentran en la carpeta 'service'
